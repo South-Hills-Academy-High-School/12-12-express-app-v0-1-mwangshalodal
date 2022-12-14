@@ -41,6 +41,19 @@ color: transparent;
 
 }
 
+.container-snow{
+  min-height: 50px;
+  padding-top: 20px;
+  text-align: center;
+  background-image: url('https://ichef.bbci.co.uk/news/999/cpsprodpb/15951/production/_117310488_16.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  clip-path: url('https://upload.wikimedia.org/wikipedia/commons/0/0f/Scandinavian_Snowflake.svg');
+color: transparent;
+
+}
+
 h1{
   font-size: 100px;
 }
